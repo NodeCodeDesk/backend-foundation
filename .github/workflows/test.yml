@@ -1,12 +1,3 @@
-## Getting Started
-
-## 1. Clonse the repo 
-```bash
-git clone https://github.com/your-username/backend-foundation.git
-cd backend-foundation
-
-### 2. Github Actions -
-```yaml
 name: Run Jest Tests
 
 on: 
